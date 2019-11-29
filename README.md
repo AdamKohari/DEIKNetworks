@@ -1,2 +1,2 @@
-# DEIKNetworks
+# Networks
 College project
